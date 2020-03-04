@@ -1,2 +1,2 @@
 # POO
- Circular Linked List using Object-Oriented Programming
+ Circular Linked Lists using Object-Oriented Programming
